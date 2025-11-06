@@ -38,10 +38,6 @@ import {
   Zap,
   Shield,
   Leaf,
-  TrendingUp,
-  Award,
-  Target,
-  Activity
 } from "lucide-react";
 
 export default function App() {
